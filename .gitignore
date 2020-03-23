@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj
+/.vs/AngularUI/v16/.suo
+/.vs/AngularUI/DesignTimeBuild

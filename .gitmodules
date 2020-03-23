@@ -1,0 +1,4 @@
+[submodule "logging-framework"]
+	path = logging-framework
+	url = https://github.com/anuj-sharrma/logging-framework.git
+	branch = develop
